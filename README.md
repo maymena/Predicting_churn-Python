@@ -1,4 +1,4 @@
-# Predicting_churn
+# Predicting churn
 
 The gym chain Model Fitness is developing a customer interaction strategy based on analytical data.
 One of the most common problems gyms and other services face is customer churn. For a gym, it makes sense to say a customer has left if they don't come for a month. Of course, it's possible they're in Cancun and will resume their visits when they return, but's that's not a typical case. Usually, if a customer joins, comes a few times, then disappears, they're unlikely to come back.
